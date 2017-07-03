@@ -1,0 +1,6 @@
+c:\users\mac10e\documents\visual studio 2017\Projects\MasterMinds\MasterMinds\bin\Debug\MasterMinds.exe.config
+c:\users\mac10e\documents\visual studio 2017\Projects\MasterMinds\MasterMinds\bin\Debug\MasterMinds.exe
+c:\users\mac10e\documents\visual studio 2017\Projects\MasterMinds\MasterMinds\bin\Debug\MasterMinds.pdb
+c:\users\mac10e\documents\visual studio 2017\Projects\MasterMinds\MasterMinds\obj\Debug\MasterMinds.csprojResolveAssemblyReference.cache
+c:\users\mac10e\documents\visual studio 2017\Projects\MasterMinds\MasterMinds\obj\Debug\MasterMinds.exe
+c:\users\mac10e\documents\visual studio 2017\Projects\MasterMinds\MasterMinds\obj\Debug\MasterMinds.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{838C8237-9334-4731-B281-CD22B82546C6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MasterMinds/Program.cs">
+    <Files>
+      <File FileName="MasterMinds/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MasterMinds PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
